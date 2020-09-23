@@ -1,0 +1,1 @@
+web: gunicorn serving_your_model_ex.py:app
